@@ -24,11 +24,11 @@ public class Main {
         }
     }
 }
-//Más eficiente :D
+//Más eficiente :D | rapido :D
 /*
-  if (numero >= 1 || numero <= -1){
+  if (numero >= 1 || numero <= -1 || numero == 0){
         System.out.println("No es un numero casi 0")
   }else{
-        System.out.println("Es cero o casi 0")
+        System.out.println("Es casi 0")
   }
  */
